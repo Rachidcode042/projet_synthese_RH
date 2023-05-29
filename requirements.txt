@@ -1,0 +1,16 @@
+os
+pandas
+sklearn
+matplotlib
+seaborn
+numpy
+warnings
+LabelEncoder
+train_test_split
+TfidfVectorizer
+hstack
+OneVsRestClassifier
+KNeighborsClassifier
+metrics
+nltk
+string
